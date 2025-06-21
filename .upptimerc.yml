@@ -5,13 +5,15 @@ repo: upptime # The name of this repository
 sites:
   - name: Kreisklasse
     url: http://kreisklasse.net
+  - name: nabu.casa
+    url: nabu.casa
   - name: Time.is
     url: https://time.is
-  - name: joindns4.eu
+  - name: joindns4.eu DNS ipv4
     url: protective.joindns4.eu
     check: "tcp-ping"
     port: 443
-  - name: joindns4.eu
+  - name: joindns4.eu DNS ipv6
     url: protective.joindns4.eu
     check: "tcp-ping"
     port: 443
