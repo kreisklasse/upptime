@@ -3,8 +3,8 @@ owner: kreisklasse # Your GitHub organization or username, where this repository
 repo: upptime # The name of this repository
 
 sites:
-  - name: Kreisklasse
-    url: http://kreisklasse.net
+  - name: A310.net
+    url: https://a310.net/
   - name: nabu.casa
     url: nabu.casa
   - name: Time.is
