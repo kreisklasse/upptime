@@ -5,16 +5,32 @@ repo: upptime # The name of this repository
 sites:
   - name: A310.net
     url: https://a310.net/
-  - name: nabu.casa
-    url: nabu.casa
   - name: Time.is
     url: https://time.is
-  - name: joindns4.eu DNS ipv4
+  - name: protective.joindns4.eu DNS ipv4 DOH
     url: protective.joindns4.eu
     check: "tcp-ping"
     port: 443
-  - name: joindns4.eu DNS ipv6
+  - name: protective.joindns4.eu DNS ipv6 DOH
     url: protective.joindns4.eu
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
+  - name: freedns.controld.com DNS ipv4 DOH
+    url: freedns.controld.com
+    check: "tcp-ping"
+    port: 443
+  - name: freedns.controld.com DNS ipv6 DOH
+    url: freedns.controld.com
+    check: "tcp-ping"
+    port: 443
+    ipv6: true
+  - name: ffmuc.net DNS ipv4 DOH
+    url: doh.ffmuc.net
+    check: "tcp-ping"
+    port: 443
+  - name: ffmuc.net DNS ipv6 DOH
+    url: doh.ffmuc.net
     check: "tcp-ping"
     port: 443
     ipv6: true
