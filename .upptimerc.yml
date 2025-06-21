@@ -4,17 +4,17 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Kreisklasse
-    url: https://kreisklasse.net
+    url: http://kreisklasse.net
   - name: Time.is
     url: https://time.is
   - name: joindns4.eu
     url: protective.joindns4.eu
     check: "tcp-ping"
-    port: 53
+    port: 443
   - name: joindns4.eu
     url: protective.joindns4.eu
     check: "tcp-ping"
-    port: 53
+    port: 443
     ipv6: true
 
 status-website:
