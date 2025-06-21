@@ -1,22 +1,22 @@
 [
   {
     "name": "Kreisklasse",
-    "url": "https://kreisklasse.net",
+    "url": "http://kreisklasse.net",
     "icon": "https://icons.duckduckgo.com/ip3/kreisklasse.net.ico",
     "slug": "kreisklasse",
     "status": "down",
-    "uptime": "7.70%",
-    "uptimeDay": "7.70%",
-    "uptimeWeek": "7.70%",
-    "uptimeMonth": "7.70%",
-    "uptimeYear": "7.70%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2025-06-21": 0
+      "2025-06-21": 5
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 208,
-    "timeDay": 208,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
+    "time": 167,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joindns4-eu",
     "status": "down",
-    "uptime": "9.53%",
-    "uptimeDay": "9.53%",
-    "uptimeWeek": "9.53%",
-    "uptimeMonth": "9.53%",
-    "uptimeYear": "9.53%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptime": "1.07%",
+    "uptimeDay": "1.07%",
+    "uptimeWeek": "1.07%",
+    "uptimeMonth": "1.07%",
+    "uptimeYear": "1.07%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-06-21": 0
+      "2025-06-21": 5
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "joindns4-eu",
     "status": "down",
-    "uptime": "4.81%",
-    "uptimeDay": "4.81%",
-    "uptimeWeek": "4.81%",
-    "uptimeMonth": "4.81%",
-    "uptimeYear": "4.81%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptime": "0.85%",
+    "uptimeDay": "0.85%",
+    "uptimeWeek": "0.85%",
+    "uptimeMonth": "0.85%",
+    "uptimeYear": "0.85%",
+    "time": 111,
+    "timeDay": 111,
+    "timeWeek": 111,
+    "timeMonth": 111,
+    "timeYear": 111,
     "dailyMinutesDown": {
-      "2025-06-21": 0
+      "2025-06-21": 5
     }
   }
 ]
