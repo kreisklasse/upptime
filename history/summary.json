@@ -76,9 +76,9 @@
     "url": "freedns.controld.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "freedns-controld-com-dns-ipv4-doh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 4,
     "timeMonth": 5,
     "timeYear": 4,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-27": 0
+    }
   },
   {
     "name": "ffmuc.net DNS ipv4 DOH",
