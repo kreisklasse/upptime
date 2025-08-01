@@ -4,19 +4,19 @@
     "url": "https://a310.net/",
     "icon": "https://icons.duckduckgo.com/ip3/a310.net.ico",
     "slug": "a310-net",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1082,
-    "timeDay": 907,
-    "timeWeek": 980,
-    "timeMonth": 1032,
-    "timeYear": 1082,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
+    "time": 1077,
+    "timeDay": 884,
+    "timeWeek": 966,
+    "timeMonth": 1027,
+    "timeYear": 1077,
     "dailyMinutesDown": {
-      "2025-08-01": 0
+      "2025-08-01": 21
     }
   },
   {
