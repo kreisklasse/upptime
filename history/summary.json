@@ -4,9 +4,9 @@
     "url": "https://a310.net/",
     "icon": "https://icons.duckduckgo.com/ip3/a310.net.ico",
     "slug": "a310-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 980,
     "timeMonth": 1032,
     "timeYear": 1082,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-01": 0
+    }
   },
   {
     "name": "Time.is",
