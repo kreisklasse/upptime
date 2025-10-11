@@ -1,7 +1,7 @@
 url: anycast.uncensoreddns.org
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-10-11T08:49:35.417Z
+lastUpdated: 2025-10-11T08:57:29.708Z
 startTime: 2025-06-21T22:25:24.919Z
 generator: Upptime <https://github.com/upptime/upptime>
