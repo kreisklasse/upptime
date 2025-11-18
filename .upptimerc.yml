@@ -17,8 +17,8 @@ sites:
     port: 443
     type: globalping
     location: germany
-  - name: ecowitt.net
-    url: https://www.ecowitt.net
+  - name: wolf-smartset.com
+    url: https://www.wolf-smartset.com
     type: globalping
     location: germany
 
