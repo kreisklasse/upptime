@@ -5,40 +5,19 @@ repo: upptime # The name of this repository
 sites:
   - name: A310.net
     url: https://a310.net/
+    type: globalping
+    location: germany
   - name: Time.is
     url: https://time.is
+    type: globalping
+    location: germany
   - name: protective.joindns4.eu DNS ipv4 DOH
     url: protective.joindns4.eu
     check: "tcp-ping"
     port: 443
-  - name: unfiltered.adguard-dns.com DNS ipv4 DOH
-    url: unfiltered.adguard-dns.com
-    check: "tcp-ping"
-    port: 443
-  - name: freedns.controld.com DNS ipv4 DOH
-    url: freedns.controld.com
-    check: "tcp-ping"
-    port: 443
-  - name: ffmuc.net DNS ipv4 DOH
-    url: doh.ffmuc.net
-    check: "tcp-ping"
-    port: 443
-  - name: anycast.uncensoreddns.org DNS ipv4 DOH
-    url: anycast.uncensoreddns.org
-    check: "tcp-ping"
-    port: 443
-  - name: dnspub.restena.lu DNS ipv4 DOH
-    url: dnspub.restena.lu
-    check: "tcp-ping"
-    port: 443
-  - name: doh.applied-privacy.net DNS ipv4 DOH
-    url: doh.applied-privacy.net
-    check: "tcp-ping"
-    port: 443
-  - name: dns.digitale-gesellschaft.ch DNS ipv4 DOH
-    url: dns.digitale-gesellschaft.ch
-    check: "tcp-ping"
-    port: 443
+    type: globalping
+    location: germany
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
