@@ -26,18 +26,20 @@
     "url": "https://time.is",
     "icon": "https://icons.duckduckgo.com/ip3/time.is.ico",
     "slug": "time-is",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 277,
-    "timeWeek": 188,
-    "timeMonth": 258,
-    "timeYear": 242,
-    "dailyMinutesDown": {}
+    "time": 241,
+    "timeDay": 161,
+    "timeWeek": 170,
+    "timeMonth": 251,
+    "timeYear": 241,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "protective.joindns4.eu DNS ipv4 DOH",
