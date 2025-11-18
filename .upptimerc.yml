@@ -17,6 +17,10 @@ sites:
     port: 443
     type: globalping
     location: germany
+  - name: ecowitt.net
+    url: https://www.ecowitt.net
+    type: globalping
+    location: germany
 
 
 status-website:
