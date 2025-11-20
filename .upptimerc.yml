@@ -21,6 +21,14 @@ sites:
     url: https://www.wolf-smartset.com
     type: globalping
     location: germany
+  - name: stun.netbird.io
+    url: stun.netbird.io
+    type: globalping
+    location: germany
+  - name: turn.netbird.io
+    url: turn.netbird.io
+    type: globalping
+    location: germany
 
 
 status-website:
