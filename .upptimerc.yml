@@ -23,11 +23,13 @@ sites:
     location: germany
   - name: stun.netbird.io
     url: stun.netbird.io
+    check: "tcp-ping"
     port: 443
     type: globalping
     location: germany
   - name: turn.netbird.io
     url: turn.netbird.io
+    check: "tcp-ping"
     port: 443
     type: globalping
     location: germany
