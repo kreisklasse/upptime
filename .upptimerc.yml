@@ -21,16 +21,8 @@ sites:
     url: https://www.wolf-smartset.com
     type: globalping
     location: germany
-  - name: stun.netbird.io
-    url: stun.netbird.io
-    check: "tcp-ping"
-    port: 443
-    type: globalping
-    location: germany
-  - name: turn.netbird.io
-    url: turn.netbird.io
-    check: "tcp-ping"
-    port: 443
+  - name: checkonline.home-assistant.io
+    url: checkonline.home-assistant.io
     type: globalping
     location: germany
 
