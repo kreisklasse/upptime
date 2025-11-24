@@ -23,6 +23,8 @@ sites:
     location: germany
   - name: checkonline.home-assistant.io
     url: checkonline.home-assistant.io
+    check: "tcp-ping"
+    port: 443
     type: globalping
     location: germany
 
