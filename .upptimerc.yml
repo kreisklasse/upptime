@@ -7,6 +7,10 @@ sites:
     url: https://a310.net/
     type: globalping
     location: germany
+  - name: ping.kreisklasse.net
+    url: http://ping.kreisklasse.net
+    type: globalping
+    location: germany
   - name: Time.is
     url: https://time.is
     type: globalping
