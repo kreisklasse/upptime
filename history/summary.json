@@ -4,9 +4,9 @@
     "url": "https://a310.net/",
     "icon": "https://icons.duckduckgo.com/ip3/a310.net.ico",
     "slug": "a310-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 669,
     "timeYear": 940,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31,
       "2025-10-24": 22,
       "2025-10-22": 18,
@@ -27,9 +28,9 @@
     "url": "http://ping.kreisklasse.net",
     "icon": "https://icons.duckduckgo.com/ip3/ping.kreisklasse.net.ico",
     "slug": "ping-kreisklasse-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -39,6 +40,7 @@
     "timeMonth": 180,
     "timeYear": 163,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31
     }
   },
@@ -47,9 +49,9 @@
     "url": "https://time.is",
     "icon": "https://icons.duckduckgo.com/ip3/time.is.ico",
     "slug": "time-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
@@ -59,6 +61,7 @@
     "timeMonth": 986,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31,
       "2025-11-18": 160
     }
@@ -68,9 +71,9 @@
     "url": "protective.joindns4.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "protective-joindns4-eu-dns-ipv4-doh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -80,6 +83,7 @@
     "timeMonth": 6,
     "timeYear": 94,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31
     }
   },
@@ -88,9 +92,9 @@
     "url": "https://www.wolf-smartset.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wolf-smartset.com.ico",
     "slug": "wolf-smartset-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
@@ -100,6 +104,7 @@
     "timeMonth": 604,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31
     }
   },
@@ -108,9 +113,9 @@
     "url": "checkonline.home-assistant.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checkonline-home-assistant-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
@@ -120,6 +125,7 @@
     "timeMonth": 12,
     "timeYear": 11,
     "dailyMinutesDown": {
+      "2025-12-29": 0,
       "2025-12-26": 31
     }
   }
