@@ -31,7 +31,18 @@ sites:
     port: 443
     type: globalping
     location: germany
-
+  - name: stun.netbird.io
+    url: stun.netbird.io
+    check: "tcp-ping"
+    port: 443
+    type: globalping
+    location: germany
+  - name: turn.netbird.io
+    url: turn.netbird.io
+    check: "tcp-ping"
+    port: 443
+    type: globalping
+    location: germany
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
