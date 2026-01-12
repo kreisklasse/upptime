@@ -4,9 +4,9 @@
     "url": "https://a310.net/",
     "icon": "https://icons.duckduckgo.com/ip3/a310.net.ico",
     "slug": "a310-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 225,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31,
@@ -29,9 +30,9 @@
     "url": "http://ping.kreisklasse.net",
     "icon": "https://icons.duckduckgo.com/ip3/ping.kreisklasse.net.ico",
     "slug": "ping-kreisklasse-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
@@ -41,6 +42,7 @@
     "timeMonth": 300,
     "timeYear": 221,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31
@@ -51,9 +53,9 @@
     "url": "https://time.is",
     "icon": "https://icons.duckduckgo.com/ip3/time.is.ico",
     "slug": "time-is",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.92%",
@@ -63,6 +65,7 @@
     "timeMonth": 597,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31,
@@ -74,9 +77,9 @@
     "url": "protective.joindns4.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "protective-joindns4-eu-dns-ipv4-doh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.97%",
@@ -86,6 +89,7 @@
     "timeMonth": 12,
     "timeYear": 88,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31
@@ -96,9 +100,9 @@
     "url": "https://www.wolf-smartset.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.wolf-smartset.com.ico",
     "slug": "wolf-smartset-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.90%",
@@ -108,6 +112,7 @@
     "timeMonth": 281,
     "timeYear": 421,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31
@@ -118,9 +123,9 @@
     "url": "checkonline.home-assistant.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "checkonline-home-assistant-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
@@ -130,6 +135,7 @@
     "timeMonth": 12,
     "timeYear": 10,
     "dailyMinutesDown": {
+      "2026-01-12": 0,
       "2026-01-02": 24,
       "2025-12-29": 20,
       "2025-12-26": 31
@@ -140,9 +146,9 @@
     "url": "stun.netbird.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stun-netbird-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,16 +157,18 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 0
+    }
   },
   {
     "name": "turn.netbird.io",
     "url": "turn.netbird.io",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "turn-netbird-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -169,6 +177,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-12": 0
+    }
   }
 ]
