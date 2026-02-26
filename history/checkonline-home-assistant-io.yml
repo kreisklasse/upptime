@@ -1,7 +1,7 @@
 url: checkonline.home-assistant.io
-status: up
-code: 200
-responseTime: 6
-lastUpdated: 2026-02-25T23:37:30.448Z
+status: down
+code: 403
+responseTime: 0
+lastUpdated: 2026-02-26T19:13:56.759Z
 startTime: 2025-11-24T20:04:22.414Z
 generator: Upptime <https://github.com/upptime/upptime>
