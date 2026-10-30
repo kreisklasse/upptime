@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/a310.net.ico",
     "slug": "a310-net",
     "status": "up",
-    "uptime": "96.67%",
+    "uptime": "96.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ping.kreisklasse.net.ico",
     "slug": "ping-kreisklasse-net",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.38%",
+    "uptimeDay": "89.87%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.26%",
+    "uptimeYear": "99.38%",
     "time": 120,
     "timeDay": 0,
     "timeWeek": 46,
@@ -98,7 +98,7 @@
       "2026-05-09": 63,
       "2026-10-09": 173,
       "2026-10-08": 6,
-      "2026-10-30": 0
+      "2026-10-30": 146
     }
   },
   {
